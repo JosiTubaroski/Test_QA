@@ -1,5 +1,5 @@
-# Test QA
+# ✨ Testes / QA
 
-Objetivo: Apresentar Conteudos sobre testes de software
+<b>Objetivo:</b> Apresentar Conteudos sobre testes de software
 
 
