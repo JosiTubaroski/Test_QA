@@ -11,6 +11,6 @@
 <h3 align="left">Selenium WEBDriver</h3>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Java-Selenium-Webdriver/tree/master/src/test/java/tests">1 - Modelo de Automação de Testes utilizando Java e Selenium WebDriver </a></p>
+<p><a href="https://github.com/JosiTubaroski/Java-Selenium-Webdriver/tree">1 - Modelo de Automação de Testes utilizando Java e Selenium WebDriver </a></p>
 </div> 
 
