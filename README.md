@@ -1,2 +1,5 @@
-# Test_QA
-Conteúdos sobre testes e qualidade de software
+# Test QA
+
+Objetivo: Apresentar Conteudos sobre testes de software
+
+
