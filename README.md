@@ -18,3 +18,5 @@
 <p><a href="https://github.com/JosiTubaroski/Java-Selenium-Webdriver">2 - Modelo de Automação de Testes utilizando Java e Selenium WebDriver </a></p>
 </div> 
 
+<h3 align="left">Testes API com Postman</h3>
+
