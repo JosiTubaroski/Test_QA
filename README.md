@@ -11,7 +11,7 @@
 <h3 align="left">Selenium WEBDriver</h3>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Test_QA/blob/main/01_Primeiros_Passos_WebDriver.ipynb">1 - Primeiros Passos: Instações e configuração de ambiente. </a></p>
+<p><a href="https://github.com/JosiTubaroski/Test_QA/blob/main/Primeiros_Passos/01_Primeiros_Passos_WebDriver.ipynb">1 - Primeiros Passos: Instações e configuração de ambiente. </a></p>
 </div> 
 
 <div> 
