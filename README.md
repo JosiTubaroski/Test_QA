@@ -21,7 +21,7 @@
 <h3 align="left">Testes API com Postman</h3>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Test_QA/blob/main/Testes_API_Postman/01_Como_Utilizar_Postman_Para_Testar_API%20-%20GitHub.ipynb">1 - Guia básico para testes de API com Postman </a></p>
+<p><a href="https://github.com/JosiTubaroski/Test_QA/blob/main/Testes_API_Postman/01_Como_Utilizar_Postman_Para_Testar_API%20-%20GitHub.ipynb">1 - Guia básico para o primeiro teste de API com Postman </a></p>
 </div> 
 
 
